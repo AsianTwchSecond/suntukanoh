@@ -26,7 +26,7 @@ function joinBot() {
   addLog("Starting bot...")
 
   bot = mineflayer.createBot({
-    host: "bingungsmp.top",
+    host: "play.bingungsmp.top",
     username: "AltNiXac",
     version: false
   })
