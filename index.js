@@ -26,7 +26,7 @@ function joinBot() {
   addLog("Starting bot...")
 
   bot = mineflayer.createBot({
-    host: "allaysmp.pro",
+    host: "illusionsmp.srein.xyz",
     username: "Xacrifizee_",
     version: "1.21.4"
   })
