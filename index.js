@@ -26,7 +26,7 @@ function joinBot() {
   addLog("Starting bot...")
 
   bot = mineflayer.createBot({
-    host: "aetheria.usga.me",
+    host: "unitedmn.net",
     username: "Xacrifizee_",
     version: "1.21.4"
   })
